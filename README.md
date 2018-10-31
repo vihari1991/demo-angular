@@ -1,1 +1,1 @@
-# hotel
+# demo project
