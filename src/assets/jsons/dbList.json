@@ -1,6 +1,17 @@
-{
-
-
-
-
-}
+[
+    {
+      "id": 696632,
+      "name": "Vihari Pattapu",
+      "occupation": "Job",
+      "mobileNumber": "1234567890",
+      "address": "17-2/87",
+      "city": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "roomNo": "201",
+      "joinDate": "10/10/2017",
+      "joinMonth": "October",
+      "rentPaid": 6000,
+      "advancePaid": 5000,
+      "itemScore": 0
+    }
+]
